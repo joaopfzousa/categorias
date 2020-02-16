@@ -25,6 +25,7 @@ return [
     'ZF\\Rpc',
     'ZF\\Versioning',
     'StatusLib',
+    'ZfrCors',
     'Application',
     'Desafio',
 ];
